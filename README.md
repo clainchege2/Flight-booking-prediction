@@ -1,5 +1,5 @@
 Project Overview
-In this project, I worked on predicting customer booking behavior for an airline by leveraging data and predictive models. The goal was to proactively acquire customers before they arrived at the airport by analyzing customer booking data and building a machine learning model to forecast their likelihood of making a purchase. The tasks involved dataset exploration, feature engineering, model training, and evaluation, followed by the presentation of insights to key stakeholders.
+In this project, I worked on predicting customer booking behavior for British Airways by leveraging data and predictive models. The goal was to proactively acquire customers before they arrived at the airport by analyzing customer booking data and building a machine learning model to forecast their likelihood of making a purchase. The tasks involved dataset exploration, feature engineering, model training, and evaluation, followed by the presentation of insights to key stakeholders.
 
 Tasks Completed:
 Dataset Exploration and Preparation:
